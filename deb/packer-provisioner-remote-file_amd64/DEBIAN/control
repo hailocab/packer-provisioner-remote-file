@@ -1,0 +1,9 @@
+Package: packer
+Version: 0.8.6
+Architecture: amd64
+Essential: no
+Section: Applications
+Priority: optional
+Maintainer: devops@hailocab.com
+Installed-Size: 10000
+Description: Packs Packer in a package
